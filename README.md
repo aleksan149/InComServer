@@ -5,7 +5,6 @@
 
 ![Иллюстрация к проекту](https://github.com/aleksan149/InComServer/blob/main/image/screen2.png)
 
-
 ## Зависимости:
 Python >= 3.9, Guizero, Pywebio, qrcode
 
@@ -20,7 +19,7 @@ Python >= 3.9, Guizero, Pywebio, qrcode
 
 ![Иллюстрация к проекту](https://github.com/aleksan149/InComServer/blob/main/image/screen3.png)
 
-## В релизах есть версии для Windows и Mac os
+### В релизах есть версии для Windows и Mac os
 
 Видео о сервере
 https://www.youtube.com/watch?v=d05y7zLAgA0&t=8s
