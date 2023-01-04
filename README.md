@@ -2,9 +2,9 @@
 Служебный чат для общения в локальной сети без интернета. Ориентирован на работников Event индустрии.
 В чате есть возможность просто переписываться, а так же имеются заготовленые горячие кнопки для общения артиста и звукорежиссера.
 
-![Иллюстрация к проекту](https://github.com/aleksan149/InComServer/blob/main/image/screen1.png)
+
 ![Иллюстрация к проекту](https://github.com/aleksan149/InComServer/blob/main/image/screen2.png)
-![Иллюстрация к проекту](https://github.com/aleksan149/InComServer/blob/main/image/screen3.png)
+
 
 ## Зависимости:
 Python >= 3.9, Guizero, Pywebio, qrcode
@@ -17,6 +17,8 @@ Python >= 3.9, Guizero, Pywebio, qrcode
 
 * cd InComServer
 * python3 play_pwb.py
+
+![Иллюстрация к проекту](https://github.com/aleksan149/InComServer/blob/main/image/screen3.png)
 
 ## В релизах есть версии для Windows и Mac os
 
